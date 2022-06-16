@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <translation active="1">
+      <lang>eng</lang>
+   </translation>
+   <liste/>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+   </editions>
+   <textpage>
+      <text n="1" label="Peterborough Chronicle">
+         <pb n="Folio 1r">PC_fol_1r</pb>
+      </text>
+      <text n="2" label="text 2">
+         <pb n="Folio 1rv">PC_fol_1v</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="Folio 1r">PC_fol_1r</pb>
+      </pair>
+      <pair>
+         <pb n="Folio 1rv">PC_fol_1v</pb>
+      </pair>
+   </pages>
+   <idno/>
+</xml>

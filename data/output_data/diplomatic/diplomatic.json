@@ -1,0 +1,237 @@
+
+				{"pages": [
+				
+					 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : "", 
+									"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false" 
+								}, 
+							
+										{ 
+											"line" : "1|line 1",
+											"text" : "Brittene igland is ehta hund mila lang .",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "⁊ tƿa hund brad. ⁊ her sind on þis",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "iglande fif ge þeode . english . ⁊ brit ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "tisc . ⁊ ƿilsc . ⁊ scyttisc . ⁊ pyhtisc . ⁊ ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "bocleden. Erest ƿeron bugend þises ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "landes brittes þa coman of armenia. ⁊ ge sætan ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "suðeƿearde bryttene ærost. Þa ge lamp hit ꝥ pyh",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "tas coman suþan of scithian . mid langū scipū ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "na manegum. ⁊ þa coman ærost on norþ ybernian ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "up. ⁊ þær bædo scottas ꝥ hi ðer moston ƿunian. ac ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "hi noldan heom lyfan. forðan hi cƿædon þa scottas . ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "ƿe eoƿ magon þeah hƿaðere ræd ge læron. Ƿe ƿitan ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "oþer egland her be easton. þer ge magon eardian gif ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "ge ƿillað. ⁊ gif hƿa eoƿ ƿið stent . ƿe eoƿ fultumiad . ꝥ ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "ge hit magon ge gangan. Ða ferdon þa pihtas . ⁊ ge ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "ferdon þis land norþan ƿeard. ⁊ suþanƿeard hit hef ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "don brittas . sƿa ƿe ær cƿedon. And þa pyhtas heom abæ ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "don ƿif æf scottum . on þa ge ræd ꝥ hi gecuron heor ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "kyne cin aa on þa ƿif healfa . ꝥ hi heoldon sƿa lange ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "syððan. ⁊ þa gelamp hit imbe geara rina . ꝥ scotta ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "sum dæl geƿat of ybernian on brittene . ⁊ þer lan ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "der sum dæl ge eodon . ⁊ ƿes heora heratoga reoda ge ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "haten . from þa heo rind genemnode dælreodi. Six ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "tigum ƿintrii ær þa þe crist acenned . gaius uilius ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "romana kasere mid hund ehtatigu scipū ge sohte ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "brytene. Þer he ƿes ærost ge sƿenced mid grimmum ",
+											"tags" : "PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "ge feohte . ⁊ micelne dæl his heres forlædde. ⁊ þa he   ",
+											"tags" : "PC PC PC|Peterborough Chronicle Peterborough Chronicle",
+											"loc" : "PC_fol_1r|Folio 1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "forlet his here abidan mid scottum . ⁊ ge ƿat into galƿalī.  ",
+											"tags" : "PC PC|Peterborough Chronicle",
+											"loc" : "PC_fol_1v|Folio 1rv",
+											"inFront": "false"
+										},
+									 { "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			
