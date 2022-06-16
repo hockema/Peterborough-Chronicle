@@ -47,9 +47,19 @@
 	<!-- EN: Welcome Message -->
 	<!-- IT: Messaggio di benvenuto -->
 	<!-- default: 'Welcome to an edition created with EVT' -->
-	<xsl:param name="welcomeMsg">
-		
-	</xsl:param>
+	<!--<xsl:param name="welcomeMsg">
+		<div>
+			<p class="title main">Welcome to an edition created with EVT!</p>
+		</div>
+		<div>This archive includes a few examples of editions created using EVT,
+			by default you are shown a small excerpt of the
+			<a href="https://www.collane.unito.it/oa/items/show/11" target="blank">
+				Digital Vercelli Book edition</a>.
+		</div>
+		<div>It is recommended to go to full screen mode so that all available screen space is used to show the manuscript images and the transcription text.</div>
+		<div>For more information refer to the EVT Manual in the "doc" folder.
+			If you have any suggestions or spot an error/bug please contact us at <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></div>
+	</xsl:param> -->
 
 	<!-- EN: Hide/Show scans -->
 	<!-- IT: Nascondi/Mostra scansioni -->
