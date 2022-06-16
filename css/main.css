@@ -3159,6 +3159,7 @@ ul.ul_list li.list_element_opened {
      border-color: rgb(60, 50, 44);*/
     padding: 0;
     height: auto;
+    display:none
 }
 
 #welcomeInfo .title.main {

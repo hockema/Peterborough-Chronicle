@@ -37,7 +37,7 @@
 	<!-- EN: Main web site for digital edition -->
 	<!-- IT: Sito web principale dell'edizione -->
 	<!-- default: '' -->
-	<xsl:param name="webSite" select="'https://www.collane.unito.it/oa/items/show/11'"/>
+	<xsl:param name="webSite" select="'https://hockema.github.io/Peterborough-Chronicle/'"/>
 
 	<!-- EN: Index title -->
 	<!-- IT: Titolo edizione -->

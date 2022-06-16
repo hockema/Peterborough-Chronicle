@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Peterborough Chronicle</title>
@@ -15,105 +15,95 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-
+   </teiHeader>
    <facsimile xml:id="Peterborough_Chronicle">
-   <surface xml:id="Peterborough_Chronicle_1r" corresp="#PC_fol_1r">
-      <graphic height="1800px" width="1200px"
-         url="https://digital.bodleian.ox.ac.uk/derivative_files/fa/ff/32/f8-d744-4914-a669-c0ccc66aa002/full.jpg?filename=Bodleian-Library-MS-Laud-Misc-636_00027_fol-1r.jpg"/>
-   </surface>
-   
-</facsimile>
-   
+      <surface corresp="PC_fol_1r" xml:id="Peterborough_Chronicle_1r">
+         <graphic
+            url="https://digital.bodleian.ox.ac.uk/derivative_files/fa/ff/32/f8-d744-4914-a669-c0ccc66aa002/full.jpg?filename=Bodleian-Library-MS-Laud-Misc-636_00027_fol-1r.jpg"
+            width="1200px" height="1800px"/>
+      </surface>
+   </facsimile>
    <text n="Peterborough Chronicle" type="prose" xml:id="PC">
-   <front></front>
-   <group>
-      <text>
-         <front/>
-         <body>
-           <pb n="Folio 1r" xml:id="PC_fol_1r"/>
+      <front/>
+      <body>
+         <pb n="Folio 1r" xml:id="PC_fol_1r"/>
+         <div>
             <p>
-            <lb n="1"/><choice><orig>Brittene</orig><reg>n, gen.sg.</reg></choice> <choice><orig>igland</orig><reg>n, nom.sg.</reg></choice> is ehta hund mila lang .
-            <lb n="2"/><choice><orig>⁊</orig><reg>and</reg></choice> tƿa hund brad. ⁊ her sind on þis
-            <lb n="3"/>iglande fif ge þeode . english . ⁊ brit
-            <lb n="4"/>tisc . ⁊ ƿilsc . ⁊ scyttisc . ⁊ pyhtisc . ⁊
-            <lb n="5"/>bocleden. Erest ƿeron bugend þises
-            <lb n="6"/>landes brittes þa coman of armenia. ⁊ ge sætan
-            <lb n="7"/>suðeƿearde bryttene ærost. Þa ge lamp hit <choice><orig>ꝥ</orig><reg>þæt</reg></choice> pyh
-            <lb n="8"/>tas coman suþan of scithian . mid langū scipū
-            <lb n="9"/>na manegum. ⁊ þa coman ærost on norþ ybernian
-            <lb n="10"/>up. ⁊ þær bædo scottas ꝥ hi ðer moston ƿunian. ac
-            <lb n="11"/>hi noldan heom lyfan. forðan hi cƿædon þa scottas .
-            <lb n="12"/>ƿe eoƿ magon þeah hƿaðere ræd ge læron. Ƿe ƿitan
-            <lb n="13"/>oþer egland her be easton. þer ge magon eardian gif
-            <lb n="14"/>ge ƿillað. ⁊ gif hƿa eoƿ ƿið stent . ƿe eoƿ fultumiad . ꝥ
-            <lb n="15"/>ge hit magon ge gangan. Ða ferdon þa pihtas . ⁊ ge
-            <lb n="16"/>ferdon þis land norþan ƿeard. ⁊ suþanƿeard hit hef
-            <lb n="17"/>don brittas . sƿa ƿe ær cƿedon. And þa pyhtas heom abæ
-            <lb n="18"/>don ƿif æf scottum . on þa ge ræd ꝥ hi gecuron heor
-            <lb n="19"/>kyne cin aa on þa ƿif healfa . ꝥ hi heoldon sƿa lange
-            <lb n="20"/>syððan. ⁊ þa gelamp hit imbe geara rina . ꝥ scotta
-            <lb n="21"/>sum dæl geƿat of ybernian on brittene . ⁊ þer lan
-            <lb n="22"/>der sum dæl ge eodon . ⁊ ƿes heora heratoga reoda ge
-            <lb n="23"/>haten . from þa heo rind genemnode dælreodi. Six
-            <lb n="24"/>tigum ƿintrii ær þa þe crist acenned . gaius uilius
-            <lb n="25"/>romana kasere mid hund ehtatigu scipū ge sohte
-            <lb n="26"/>brytene. Þer he ƿes ærost ge sƿenced mid grimmum
-            <lb n="27"/>ge feohte . ⁊ micelne dæl his heres forlædde. ⁊ þa he
-            </p>
-         </body>
-         <back>
-            <div n="Translation of the Preface to the Peterborough Chronicle" type="translation" xml:id="PC_trans_modE1" xml:lang="eng" corresp="#Folio 1r">
-                  <head>Preface to the Peterborough Chronicle</head>
-                  <p>
-                     <lb/>The island of Britain is eight hundred miles long
-                     <lb/> and two hundred wide. And here on this 
-                     <lb/>island are five languages: English and Brit-
-                     <lb/>ish and Welsh and Scottish and Pictish and 
-                     <lb/>Latin [the 'book-language']. The earliest inhabitants of this 
-                     <lb/>land were Britons, who came from western Gaul and settled 
-                     <lb/>at first in the south of Britain. Then it happened that the Pic-
-                     <lb/>ts came from the south of Scandinavia with a few ['not many'] 
-                     <lb/>long ships, and came at first up into northern Ireland 
-                     <lb/>and there beseeched the Scots that they might dwell there. But 
-                     <lb/>they would not let them, for the Scots said, 
-                     <lb/>"We can, however, give you advice. We know 
-                     <lb/>another island to the east of here where you can live if 
-                     <lb/>you wish. And if anyone should resist you, we will help you so that 
-                     <lb/>you can conquer it." Then the Picts went and conquered 
-                     <lb/>this land to  the north; and the Britons 
-                     <lb/>had it to the south, as we already said. And then the Picts as-
-                     <lb/>ked for women from the Scots for themselves, understanding that the Scots
-                     <lb/>always chose their royal line on the female side, so that they might 
-                     <lb/>keep the land for a long time afterward. And it happened in the run of the years 
-                     <lb/>that a certain sect of the Scots departed from Ireland into Britain 
-                     <lb/>and conquered some of that land. And their chief was called 
-                     <lb/>Reoda, for whom they are named Dal Riata [Reoda's portion]. Six-
-                     <lb/>ty winters before the Christ was born, Gaius Julius 
-                     <lb/>the Roman Emperor sought Britain with eighty ships, 
-                     <lb/>where he was at first overwhelmed with fierce resistance 
-                     <lb/>and misled a large portion of his army. And then he
-                  </p>
-            </div>
-         </back> 
-      </text>
-      <text>
-         <front/>
-         <body>
-         <pb n="Folio 1rv" xml:id="PC_fol_1v"/>
+               <lb n="1" xml:id="fol1r_lb1"/><choice>
+                  <orig>Brittene</orig>
+                  <reg>n, gen.sg.</reg>
+               </choice>
+               <choice>
+                  <orig>igland</orig>
+                  <reg>n, nom.sg.</reg>
+               </choice> is ehta hund mila lang . <lb n="2"  xml:id="fol1r_lb2"/><choice>
+                  <orig>⁊</orig>
+                  <reg>and</reg>
+               </choice> tƿa hund brad. ⁊ her sind on þis <lb n="3" xml:id="fol1r_lb3"/>iglande fif ge þeode . english
+               . ⁊ brit <lb n="4" xml:id="fol1r_lb4"/>tisc . ⁊ ƿilsc . ⁊ scyttisc . ⁊ pyhtisc . ⁊ <lb n="5" xml:id="fol1r_lb5"/>bocleden.
+               Erest ƿeron bugend þises <lb n="6" xml:id="fol1r_lb6"/>landes brittes þa coman of armenia. ⁊ ge sætan
+               <lb n="7" xml:id="fol1r_lb7"/>suðeƿearde bryttene ærost. Þa ge lamp hit <choice>
+                  <orig>ꝥ</orig>
+                  <reg>þæt</reg>
+               </choice> pyh <lb n="8" xml:id="fol1r_lb8"/>tas coman suþan of scithian . mid langū scipū <lb n="9" xml:id="fol1r_lb9"/>na
+               manegum. ⁊ þa coman ærost on norþ ybernian <lb n="10" xml:id="fol1r_lb10"/>up. ⁊ þær bædo scottas ꝥ hi
+               ðer moston ƿunian. ac <lb n="11" xml:id="fol1r_lb11"/>hi noldan heom lyfan. forðan hi cƿædon þa scottas .
+               <lb n="12" xml:id="fol1r_lb12"/>ƿe eoƿ magon þeah hƿaðere ræd ge læron. Ƿe ƿitan <lb n="13" xml:id="fol1r_lb13"/>oþer
+               egland her be easton. þer ge magon eardian gif <lb n="14" xml:id="fol1r_lb14"/>ge ƿillað. ⁊ gif hƿa eoƿ
+               ƿið stent . ƿe eoƿ fultumiad . ꝥ <lb n="15" xml:id="fol1r_lb15"/>ge hit magon ge gangan. Ða ferdon þa
+               pihtas . ⁊ ge <lb n="16" xml:id="fol1r_lb16"/>ferdon þis land norþan ƿeard. ⁊ suþanƿeard hit hef <lb
+                  n="17" xml:id="fol1r_lb17"/>don brittas . sƿa ƿe ær cƿedon. And þa pyhtas heom abæ <lb n="18" xml:id="fol1r_lb18"/>don ƿif
+               æf scottum . on þa ge ræd ꝥ hi gecuron heor <lb n="19"xml:id="fol1r_lb19"/>kyne cin aa on þa ƿif healfa
+               . ꝥ hi heoldon sƿa lange <lb n="20" xml:id="fol1r_lb20"/>syððan. ⁊ þa gelamp hit imbe geara rina . ꝥ
+               scotta <lb n="21" xml:id="fol1r_lb21"/>sum dæl geƿat of ybernian on brittene . ⁊ þer lan <lb n="22" xml:id="fol1r_lb22"/>der
+               sum dæl ge eodon . ⁊ ƿes heora heratoga reoda ge <lb n="23" xml:id="fol1r_lb23"/>haten . from þa heo rind
+               genemnode dælreodi. Six <lb n="24" xml:id="fol1r_lb24"/>tigum ƿintrii ær þa þe crist acenned . gaius
+               uilius <lb n="25" xml:id="fol1r_lb25"/>romana kasere mid hund ehtatigu scipū ge sohte <lb n="26" xml:id="fol1r_lb26"
+               />brytene. Þer he ƿes ærost ge sƿenced mid grimmum <lb n="27" xml:id="fol1r_lb27"/>ge feohte . ⁊ micelne
+               dæl his heres forlædde. ⁊ þa he </p>
+         </div>
+         <pb n="Folio 1v" xml:id="PC_fol_1v"/>
+         <div>
             <p>
-               <lb n="1"/>forlet his here abidan mid scottum . ⁊ ge ƿat into galƿalī.
-            </p>
-         </body>
-         <back>
-            <div n="Translation of the Preface to the Peterborough Chronicle" type="translation" xml:id="PC_trans_modE2" xml:lang="eng" corresp="#Folio 1v">
+               <lb n="1"/>forlet his here abidan mid scottum . ⁊ ge ƿat into galƿalī. </p>
+         </div>
+      </body>
+      <back>
+         <div n="Translation of the Preface to the Peterborough Chronicle" type="translation"
+            xml:id="PC_trans_modE1" xml:lang="eng">
+            <div corresp="#PC_fol_1r">
+               <head>Preface to the Peterborough Chronicle</head>
                <p>
-                  <lb/>left his army to stay with the Scots, and went into Gaul.
-               </p>
+The island of Britain is eight hundred miles longand two hundred wide.
+And here on this island are five languages: English and British and
+Welsh and Scottish and Pictish and Latin [the 'book-language']. The earliest
+inhabitants of this land were Britons, who came from western Gaul and settled
+at first in the south of Britain. Then it happened that the Picts came
+from the south of Scandinavia with a few ['not many'] long ships, and came at
+first up into northern Ireland and there beseeched the Scots that they might
+dwell there. But they would not let them, for the Scots said, "We can,
+however, give you advice. We know another island to the east of here where
+you can live if you wish. And if anyone should resist you, we will help you
+so that you can conquer it." Then the Picts went and conquered this land
+to the north; and the Britons had it to the south, as we already said. And
+then the Picts asked for women from the Scots for themselves, understanding
+that the Scots always chose their royal line on the female side, so that they
+might keep the land for a long time afterward. And it happened in the run of
+the years that a certain sect of the Scots departed from Ireland into Britain
+and conquered some of that land. And their chief was called Reoda, for
+whom they are named Dal Riata [Reoda's portion]. Sixty winters before the
+Christ was born, Gaius Julius the Roman Emperor sought Britain with eighty
+ships, where he was at first overwhelmed with fierce resistance and
+misled a large portion of his army. And then he </p>
             </div>
-         </back>
-      </text>
-   </group>
-</text>
-
+         </div>
+         <div n="Translation of the Preface to the Peterborough Chronicle" type="translation"
+            xml:id="PC_trans_modE2" xml:lang="eng">
+            <div corresp="#PC_fol_1v">
+               <p>
+                  <lb/>left his army to stay with the Scots, and went into Gaul. </p>
+            </div>
+         </div>
+      </back>
+   </text>
 </TEI>

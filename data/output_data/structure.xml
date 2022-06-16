@@ -10,11 +10,9 @@
       <edition data-key="dipl">Diplomatic</edition>
    </editions>
    <textpage>
-      <text n="1" label="Peterborough Chronicle">
+      <text n="PC" label="Peterborough Chronicle">
          <pb n="Folio 1r">PC_fol_1r</pb>
-      </text>
-      <text n="2" label="text 2">
-         <pb n="Folio 1rv">PC_fol_1v</pb>
+         <pb n="Folio 1v">PC_fol_1v</pb>
       </text>
    </textpage>
    <pages>
@@ -22,7 +20,7 @@
          <pb n="Folio 1r">PC_fol_1r</pb>
       </pair>
       <pair>
-         <pb n="Folio 1rv">PC_fol_1v</pb>
+         <pb n="Folio 1v">PC_fol_1v</pb>
       </pair>
    </pages>
    <idno/>
