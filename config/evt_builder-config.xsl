@@ -47,19 +47,16 @@
 	<!-- EN: Welcome Message -->
 	<!-- IT: Messaggio di benvenuto -->
 	<!-- default: 'Welcome to an edition created with EVT' -->
-	<!--<xsl:param name="welcomeMsg">
-		<div>
-			<p class="title main">Welcome to an edition created with EVT!</p>
+	<xsl:param name="welcomeMsg">
+<div>
+			<p class="title main">Welcome to the Digital Peterborough Chronicle</p>
 		</div>
-		<div>This archive includes a few examples of editions created using EVT,
-			by default you are shown a small excerpt of the
-			<a href="https://www.collane.unito.it/oa/items/show/11" target="blank">
-				Digital Vercelli Book edition</a>.
+		<div>This edition was created with EVT, using the manuscript found at the
+			<a href="https://digital.bodleian.ox.ac.uk/objects/87d8c5b2-28de-4fe5-944c-67f0849b8fdb/surfaces/faff32f8-d744-4914-a669-c0ccc66aa002/" target="blank">
+				Digital Bodleian</a>.
 		</div>
-		<div>It is recommended to go to full screen mode so that all available screen space is used to show the manuscript images and the transcription text.</div>
-		<div>For more information refer to the EVT Manual in the "doc" folder.
-			If you have any suggestions or spot an error/bug please contact us at <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></div>
-	</xsl:param> -->
+		<div>For questions, comments, or concerns, please contact Chase Hockema at <a href="hockema@bc.edu">hockema@bc.edu</a></div>
+	</xsl:param>
 
 	<!-- EN: Hide/Show scans -->
 	<!-- IT: Nascondi/Mostra scansioni -->
