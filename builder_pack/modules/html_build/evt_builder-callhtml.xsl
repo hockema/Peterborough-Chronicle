@@ -281,7 +281,7 @@
 						</div>
 					</div>
 					
-					<div id="welcomeInfo_cont" class="dialog" data-content="welcomeInfo">
+					<!-- <div id="welcomeInfo_cont" class="dialog" data-content="welcomeInfo">
 						<div id="welcomeInfo" class="dialog_cont">
 							<a href="javascript:void(0);" id="close_welcome_info_cont" class="dialog_close" data-dialog="welcomeInfo_cont" title="CLOSE" lang="def">
 								<i class="fa fa-close"></i>
@@ -301,7 +301,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					
 					<div id="EVTinfo_cont" class="dialog" data-content="EVTinfo">
 						<div id="EVTinfo" class="dialog_cont">
