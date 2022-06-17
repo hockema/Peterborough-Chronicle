@@ -47,7 +47,7 @@
 	<!-- EN: Welcome Message -->
 	<!-- IT: Messaggio di benvenuto -->
 	<!-- default: 'Welcome to an edition created with EVT' -->
-	<xsl:param name="welcomeMsg">
+	<!-- <xsl:param name="welcomeMsg">
 <div>
 			<p class="title main">Welcome to the Digital Peterborough Chronicle</p>
 		</div>
@@ -56,7 +56,7 @@
 				Digital Bodleian</a>.
 		</div>
 		<div>For questions, comments, or concerns, please contact Chase Hockema at <a href="hockema@bc.edu">hockema@bc.edu</a></div>
-	</xsl:param>
+	</xsl:param> -->
 
 	<!-- EN: Hide/Show scans -->
 	<!-- IT: Nascondi/Mostra scansioni -->
@@ -298,7 +298,7 @@
     <!-- EN: Choose whether or not having a tooltip on pages option showing the belonging document  -->
     <!-- IT: Scegli se avere un tooltip sulle opzioni delle pagine che mostra il/i documento/i di appartenenza -->
     <!-- default: false() -->
-    <xsl:param name="pp_selector_doc_tooltip" select="true()"/>
+    <xsl:param name="pp_selector_doc_tooltip" select="false()"/>
 
 	<!-- EN: On/Off Search -->
 	<!-- IT: Attiva/Disattiva Ricerca -->
@@ -333,7 +333,7 @@
 	<!-- EN: On/Off Tooltip indicating language encoded in @xml:lang -->
 	<!-- IT: Attiva/Disattiva Tooltip per la visualizzazione della lingua degli elementi che presentano @xml:lang  -->
 	<!-- default: false() -->
-	<xsl:param name="lang_tooltip" select="true()"/>
+	<xsl:param name="lang_tooltip" select="false()"/>
 
 	<!-- LISTS -->
 
